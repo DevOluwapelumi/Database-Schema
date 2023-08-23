@@ -50,6 +50,6 @@ customer_id (Foreign Key referencing Customers)
 method_type (e.g., Credit Card, PayPal, etc.)
 details (e.g., Credit Card number, PayPal email, etc.)
 ...
-This schema provides a basic structure for an online merch store. It can be further enhanced with additional features, such as user authentication, reviews and ratings, wishlists, discounts, shipping information, and more, depending on the specific requirements of the store.
+This schema provides an essential structure for an online merch store. It can be further enhanced with additional features, such as user authentication, reviews and ratings, wishlists, discounts, shipping information, and more, depending on the specific requirements of the store.
 
 It's important to note that this is a simplified schema, and in a real-world scenario, you might need to consider more aspects, such as data normalization, indexing, and optimization for better performance. Additionally, the choice of database management system (e.g., MySQL, PostgreSQL, MongoDB) will also impact the actual implementation of this schema.
