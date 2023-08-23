@@ -1,4 +1,4 @@
-# Database-Schema
+Database-Schema
 
 Designing a database schema for an online merch store involves defining the structure of the database to efficiently store and manage information related to products, customers, orders, and other relevant entities. Below is a simplified example of a database schema for an online merch store:
 
